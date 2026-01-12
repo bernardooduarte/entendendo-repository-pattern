@@ -1,2 +1,2 @@
-# entendendo-repository-pattern
-Entendendo o Repository Pattern
+# Entendendo o Repository Pattern
+Fonte: https://renicius-pagotto.medium.com/entendendo-o-repository-pattern-fcdd0c36b63b
